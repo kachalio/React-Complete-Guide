@@ -14,7 +14,7 @@ class App extends Component {
       {id : "1234",  name : "mandy", age: 22},
       {id : "6780",  name : "jack", age: 20},
     ],
-    showPersons : false
+    showPersons : true
   }
 
   // Best practice to use Handler suffix on code that "isn't called by me (aka button click)"
